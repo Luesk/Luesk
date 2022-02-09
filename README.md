@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luesk
-- 👀 I’m interested in cyber security and web development
+- 👀 I’m interested in data science and cyber security
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on many projects there are
 - 📫 How to reach me on email: gabbieluesk1@gmail.com
